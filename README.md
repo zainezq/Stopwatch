@@ -23,8 +23,9 @@ This Python stopwatch application provides a straightforward way to measure elap
 - **Lap Time:** Record lap times during the stopwatch operation.
 
 ## Requirements
-
-- Python 3.x
+Before using this application, ensure that you have:
+- Python installed on your machine. You can download Python from the official [Python website](https://www.python.org/downloads/).
+- PyQt5 installed. Use the code ```pip install PyQt5``` to install the module.
 
 ## Installation
 
